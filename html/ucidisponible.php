@@ -20,10 +20,7 @@
             <input class="buttons2" type="button" value="HOME" href="#">
         </a>
     </section>
-    <section class="formato">
-        <div class="">
-
-        </div>
+    <section class="form-login">
         <form action="">
             <h5>BUSCAR CAMA UCI DISPONIBLE</h5> 
             <form action="">
