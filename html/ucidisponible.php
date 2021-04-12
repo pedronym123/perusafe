@@ -20,43 +20,47 @@
             <input class="buttons2" type="button" value="HOME" href="#">
         </a>
     </section>
-    <section class="form-login">
+    <section class="form-login2">
         <form action="">
-            <h5>BUSCAR CAMA UCI DISPONIBLE</h5> 
+        <h5>BUSCAR CAMA UCI DISPONIBLE</h5> 
+            <div class="box">
             <form action="">
-                    <h3>por departamento:</h3>
-                    <select class="tama" id="lista1" name="lista1">
-                        <option class="tama" value="">Departamento</option>
-                        <option value="1">Amazonas</option>
-                        <option value="2">Ancash</option>
-                        <option value="3">Apurimac</option>
-                        <option value="4">Arequipa</option>
-                        <option value="5">Ayacucho</option>
-                        <option value="6">Cajamarca</option>
-                        <option value="7">Callao</option>
-                        <option value="8">Cusco</option>
-                        <option value="9">Huancavelica</option>
-                        <option value="10">Huanuco</option>
-                        <option value="11">Ica</option>
-                        <option value="12">Junin</option>
-                        <option value="13">La Libertad</option>
-                        <option value="14">Lambayeque</option>
-                        <option value="15">Lima</option>
-                        <option value="16">Loreto</option>
-                        <option value="17">Madre de Dios</option>
-                        <option value="18">Moquegua</option>
-                        <option value="19">Pasco</option>
-                        <option value="20">Piura</option>
-                        <option value="21">Puno</option>
-                        <option value="22">San Martin</option>
-                        <option value="23">Tacna</option>
-                        <option value="24">Tumbes</option>
-                        <option value="25">Ucayali</option>
-                    </select>
-                    <input class="buttons" type="submit" value="BUSCAR">
-                
+                <h3>por departamento:</h3>
+                <select class="tama" id="lista1" name="lista1">
+                    <option class="tama" value="">Departamento</option>
+                    <option value="1">Amazonas</option>
+                    <option value="2">Ancash</option>
+                    <option value="3">Apurimac</option>
+                    <option value="4">Arequipa</option>
+                    <option value="5">Ayacucho</option>
+                    <option value="6">Cajamarca</option>
+                    <option value="7">Callao</option>
+                    <option value="8">Cusco</option>
+                    <option value="9">Huancavelica</option>
+                    <option value="10">Huanuco</option>
+                    <option value="11">Ica</option>
+                    <option value="12">Junin</option>
+                    <option value="13">La Libertad</option>
+                    <option value="14">Lambayeque</option>
+                    <option value="15">Lima</option>
+                    <option value="16">Loreto</option>
+                    <option value="17">Madre de Dios</option>
+                    <option value="18">Moquegua</option>
+                    <option value="19">Pasco</option>
+                    <option value="20">Piura</option>
+                    <option value="21">Puno</option>
+                    <option value="22">San Martin</option>
+                    <option value="23">Tacna</option>
+                    <option value="24">Tumbes</option>
+                    <option value="25">Ucayali</option>
+                </select>
+                <input class="buttons" type="submit" value="BUSCAR">
+            </div>
+            <div class="box">
                 <div id="select2lista"></div>
                 <input class="buttons" type="submit" value="BUSCAR">
+            </div>
+                
 
                 
             </form>
